@@ -1,0 +1,52 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+*.trx
+
+#AI
+.ai/
+
+# Coverage
+coverage/
+coverage.*
+
+# Publish output
+publish/
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated files
+Generated/
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
